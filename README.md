@@ -1,5 +1,5 @@
 # Window-explorer
-
+자바로 구현한 윈도우 탐색기
 
 #### 실행 영상 : https://drive.google.com/file/d/16gRAjcV0lA0E5sQhhTkwmoI38gMgEBIG/view?usp=sharing
 
